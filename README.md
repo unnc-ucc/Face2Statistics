@@ -71,13 +71,25 @@ The results of s the comparative validation accuracy of BiLSTM w/ and w/out CRF 
 Zeyu Xiong, Jiahao Wang, Wangkai Jin, Junyu Liu, Yicun Duan, Zilin Song, Xiangjun Peng
 
 
-
-Qidan Chen: I read one paper that introduces personalized thresholding method.
+=========================
+Qidan Chen: I read some paper and these can be considered for personalized customization.
+            1)personalized thresholding method.
             Samuel Spaulding, Cynthia Breazeal:
             Frustratingly Easy Personalization for Real-time Affect Interpretation of Facial Expression. ACII 2019: 531-537
 
-            "dynamically calculating and apply a personalized threshold for determining affect feature labels over time"
+            dynamically calculating and apply a personalized threshold for determining affect feature labels over time
             the personalized thresholding method does not preclude other methods of personalization, and is incredibly simple, easy to run in real-time, and does not require re-training a complex model as new data is sensed.
+
+            2)transductive parameter transfer approach
+            Zen, Gloria ; Porzi, Lorenzo ; Sangineto, Enver ; Ricci, Elisa ; Sebe, Nicu:
+            Learning Personalized Models for Facial Expression Analysis and Gesture Recognition
+
+            this paper presents a framework for personalizing classification models which does not require labeled target data. Personalization is achieved by devising a novel transfer learning approach.
+
+            3)transductive learning method
+            Chu, Wen-Sheng ; De la Torre, Fernando ; Cohn, Jeffrey F:
+            Selective Transfer Machine for Personalized Facial Expression Analysis
+            We propose a transductive learning method, which we refer to as a Selective Transfer Machine (STM), to personalize a generic classifier by attenuating person-specific mismatches.
 
 
             
