@@ -69,3 +69,17 @@ The results of s the comparative validation accuracy of BiLSTM w/ and w/out CRF 
 **Contributor**
 
 Zeyu Xiong, Jiahao Wang, Wangkai Jin, Junyu Liu, Yicun Duan, Zilin Song, Xiangjun Peng
+
+
+
+Qidan Chen: I read one paper that introduces personalized thresholding method.
+            Samuel Spaulding, Cynthia Breazeal:
+            Frustratingly Easy Personalization for Real-time Affect Interpretation of Facial Expression. ACII 2019: 531-537
+
+            "dynamically calculating and apply a personalized threshold for determining affect feature labels over time"
+            the personalized thresholding method does not preclude other methods of personalization, and is incredibly simple, easy to run in real-time, and does not require re-training a complex model as new data is sensed.
+
+
+            
+
+            
