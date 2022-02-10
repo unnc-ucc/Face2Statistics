@@ -79,18 +79,20 @@ Qidan Chen: I read some paper and these can be considered for personalized custo
 
             dynamically calculating and apply a personalized threshold for determining affect feature labels over time
             the personalized thresholding method does not preclude other methods of personalization, and is incredibly simple, easy to run in real-time, and does not require re-training a complex model as new data is sensed.
+            https://ieeexplore-ieee-org.ezproxy.nottingham.edu.cn/stamp/stamp.jsp?tp=&arnumber=8925515
 
             2)transductive parameter transfer approach
             Zen, Gloria ; Porzi, Lorenzo ; Sangineto, Enver ; Ricci, Elisa ; Sebe, Nicu:
             Learning Personalized Models for Facial Expression Analysis and Gesture Recognition
 
             this paper presents a framework for personalizing classification models which does not require labeled target data. Personalization is achieved by devising a novel transfer learning approach.
+            https://ieeexplore-ieee-org.ezproxy.nottingham.edu.cn/stamp/stamp.jsp?tp=&arnumber=7394167
 
             3)transductive learning method
             Chu, Wen-Sheng ; De la Torre, Fernando ; Cohn, Jeffrey F:
             Selective Transfer Machine for Personalized Facial Expression Analysis
             We propose a transductive learning method, which we refer to as a Selective Transfer Machine (STM), to personalize a generic classifier by attenuating person-specific mismatches.
-
+            https://ieeexplore-ieee-org.ezproxy.nottingham.edu.cn/stamp/stamp.jsp?tp=&arnumber=7442563
 
             
 
