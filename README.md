@@ -68,3 +68,5 @@ The results of s the comparative validation accuracy of BiLSTM w/ and w/out CRF 
 **Code Contributor**
 
 @[Zeyu Xiong](https://github.com/BILLXZY1215), @[Jiahao Wang](https://github.com/wjhUNUK), @[Junyu Liu](https://github.com/Junyu-Liu-Nate)
+
+**[Preprint in ResearchGate](https://www.researchgate.net/publication/358532608_Face2Statistics_User-Friendly_Low-Cost_and_Effective_Alternative_to_In-Vehicle_SensorsMonitors_for_Drivers)**
