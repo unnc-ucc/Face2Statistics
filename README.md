@@ -7,15 +7,15 @@ The WIP version is [here](https://github.com/unnc-ucc/Face2Multimodal).
 
 ![pipeline-optimize](./fig/pipeline-optimize.png)
 
-Input
+### Input
 
 Raw video streams (facial expressions contains many noisy pixels)
 
-Step1
+### Step1
 
 Pre-processing input images to retrieve only the facial expressions and enhance the performance of Face2Statistics
 
-Step2
+### Step2
 
 Exploring different deep neural network-driven predictors
 
@@ -25,13 +25,13 @@ Exploring different deep neural network-driven predictors
 
   Third Attempt: Bidirectional Long-Short-Term Memory (BiLSTM) Recurrent Neural Network (RNN)
 
-Step3
+### Step3
 
 Visualizing predicted result
 
-Output
+### Output
 
-Two optimization
+#### Two optimization
 
 a) We utilize HSV color space instead of RGB color space to reduce the variance of illumination among different pixels.
 
