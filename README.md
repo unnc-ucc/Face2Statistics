@@ -65,6 +65,6 @@ The results of s the comparative validation accuracy of BiLSTM w/ and w/out CRF 
 
 
 
-**Contributor**
+**Code Contributor**
 
-Zeyu Xiong, Jiahao Wang, Wangkai Jin, Junyu Liu, Yicun Duan, Zilin Song, Xiangjun Peng
+@[Zeyu Xiong](https://github.com/BILLXZY1215), @[Jiahao Wang](https://github.com/wjhUNUK), @[Junyu Liu](https://github.com/Junyu-Liu-Nate)
