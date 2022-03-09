@@ -41,7 +41,7 @@ b) We apply personalized parameters via pearson correlation coefficients to cond
 
 **Experiment Results**
 
-a) Comparisons among Different Neural Network Models
+#### a) Comparisons among Different Neural Network Models
 
  The results of training and validation accuracy, in terms of DenseNet, LSTM and BiLSTM are displayed as follows.
 
@@ -49,7 +49,7 @@ a) Comparisons among Different Neural Network Models
 
 ![rgb](./fig/rgb.png)
 
-b) Comparisons between Different Color Models
+#### b) Comparisons between Different Color Models
 
 The results of training and validation accuracy, in terms of RGB and HSV are displayed as follows.
 
@@ -57,7 +57,7 @@ The results of training and validation accuracy, in terms of RGB and HSV are dis
 
 ![rgb2hsv](./fig/rgb2hsv.png)
 
-c) Comparisons between Models w/ or w/out CRF
+#### c) Comparisons between Models w/ or w/out CRF
 
 The results of s the comparative validation accuracy of BiLSTM w/ and w/out CRF support for four different drivers are displayed as follows.
 
